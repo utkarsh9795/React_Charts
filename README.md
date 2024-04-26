@@ -1,3 +1,3 @@
 Here is the live preview of this tutorial 
 
-[Live Preview](utkarsh-react-charts.netlify.app)
+[Live Preview](https://utkarsh-react-charts.netlify.app)
