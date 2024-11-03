@@ -135,4 +135,3 @@ Special thanks to the [Chart.js](https://www.chartjs.org/) community for creatin
 
 ---
 
-This README provides a structured and thorough description of the "React Charts" project, covering setup, usage, and other essentials for developers interested in exploring or contributing to the project.
